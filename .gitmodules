@@ -1,0 +1,3 @@
+[submodule "hand3d"]
+	path = hand3d
+	url = git@github.com:namheegordonkim/hand3d.git
